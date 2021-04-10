@@ -1,1 +1,1 @@
-# lp2-atividade1
+# Disciplina Linguagem de Programação 2 - atividade1
